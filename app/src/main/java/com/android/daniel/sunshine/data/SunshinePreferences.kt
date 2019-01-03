@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.android.sunshine.data
+package com.android.daniel.sunshine.data
 
 import android.content.Context
 

@@ -17,9 +17,7 @@ package com.example.android.sunshine.utilities
 
 import android.content.Context
 import android.text.format.DateUtils
-
-import com.example.android.sunshine.R
-import com.example.android.sunshine.utilities.SunshineDateUtils.DAY_IN_MILLIS
+import com.android.daniel.sunshine.R
 
 import java.text.SimpleDateFormat
 import java.util.TimeZone
